@@ -1,0 +1,20 @@
+body{
+    background-image: url(Roasted_coffee_beans.jpg);
+}
+#main{
+    background-color: hwb(34 53% 13%);
+    height: auto;
+    width: 30%;
+    margin-left: 400px;
+    padding: 20px;
+}
+.items{
+     
+}
+.side{
+    margin-left: 260px;
+    display: inline;
+}
+.flavour{
+    
+} 
